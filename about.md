@@ -1,16 +1,13 @@
 # Main Levels Editor
+##### This mod is getting a rewrite for 2.206
 
-currently this mod getting rewrite and port to 2206 
+A simple mod that lets you edit the main levels of Geometry Dash. With this mod, you can edit the amount of stars, the song, the name, the difficulty and the amount of required coins of a main level.
 
-u can edit main levels setup (stars, song, name, difficulty) and other stuff
-
-- ui
-- editor
-- basic work this mod should do ya
-
-and <cr>"Load Failed!"</c> <cl>bypass</c> here
-
-<cg>summary u can add ur own level in level select layer</c>
+# Features
+- UI for editing main levels very simple
+- Editing main levels in the level editor
+- Level list customization (toggle The Tower, Coming soon, etc.)
+- <cr>"Load Failed!"</c> bypass
 
 ## packed config feature
 u can distribute mod with your config...
